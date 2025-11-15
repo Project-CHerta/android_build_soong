@@ -281,6 +281,9 @@ vendor\.oplus\..*
 com\.oneplus\..*
 vendor\.oneplus\..*
 
+# PowerShare
+vendor\.lineage\..*
+
 # QC adds
 com.qualcomm.qti
 com.quicinc.tcmiface
